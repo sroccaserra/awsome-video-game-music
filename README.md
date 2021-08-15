@@ -13,51 +13,75 @@
 
 ## Awesome Amiga Music
 
-- **Apidya**
-- **Shadow of the Beast**
-- **Shadow of the Beast II**
-- **Speedball 2: Brutal Deluxe**
-- **Turrican**
-- **Turrican II**
+- Agony
+- Apidya
+- Battle Squadron
+- The Chaos Engine
+- Fire and Ice
+- First Samurai
+- Gods
+- Hybris
+- Jaguar XJ220
+- Leander
+- Lemmings
+- Lotus Turbo Challenge 2
+- Nitro
+- Pinball Dreams
+- Pinball Fantasies
+- Project X
+- Rick Dangerous
+- Robocod - James Pond 2
+- The Secret of Monkey Island
+- Shadow of the Beast
+- Shadow of the Beast II
+- Speedball 2: Brutal Deluxe
+- Supercars II
+- Turrican
+- Turrican II
 - Xenon 2
 - Yo! Joe!
 
 ## Awesome Arcade Music
 
+- Kyuukyoku Tiger (Twin Cobra)
+- Raiden
+- Rainbow Islands
+- Street Fighter II: The World Warrior
 
 ## Awesome Mega Drive Music
 
-- Bare Knuckles (Streets of Rage) [Beat 'em up] = Musique, 2 Players
-- **Bare Knuckles II** (Streets of Rage II) [Beat 'em up] = Musique, 2 Players
-- Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
-- **Castlevania Bloodlines** (Vampire Killer) [Action / Platformer] = Musique
-- **Chaos Engine** [Run and gun (Euro)] = 2 Players
-- Elemental Master [Shmup] = Musique
-- **Eliminate Down** [Shmup]
-- **Gaiares** [Shmup]
-- **Gley Lancer** (Advanced Busterhawk Gley Lancer) [Shmup]
-- Hellfire [Arcade Shmup] = Musique
-- **Mega Turrican**
+- Bare Knuckles (Streets of Rage)
+- Bare Knuckles II (Streets of Rage II)
+- Bare Knuckles III (Streets of Rage III)
+- Castlevania Bloodlines (Vampire Killer)
+- Chaos Engine
+- Elemental Master
+- Eliminate Down
+- Gaiares
+- Gley Lancer (Advanced Busterhawk Gley Lancer)
+- Hellfire
+- Mega Turrican
 - Midnight Resistance
-- **Musha Aleste** [Shmup] = Musique
-- Phantasy Star II [JRPG] = Musique
-- **Phantasy Star IV** [JRPG] = Musique
-- Rainbow Islands [Arcade Platformer]
-- **Road Rash** [Racing] = Musique
-- Road Rash II [Racing] = Musique
-- Road Rash 3 [Racing] = Musique
-- **Sonic the Hedgehog** [Platformer] = Musique
-- Sonic the Hedgehog 2 [Platformer] = Musique
-- Sonic the Hedgehog 3 & Knuckles [Platformer] = Musique
-- Super Hang-On [Arcade Racing] = Musique
-- Sword of Vermillon [ARPG]
-- **The Super Shinobi** (The Revenge of Shinobi) [Action] = Musique
-- **Tatsujin** (Truxton) [Arcade Shmup] = Musique
-- **Thunderforce III** [Shmup] = Musique
-- **Thunderforce IV** [Shmup] = Musique
-- Verytex [Shmup] = Musique
-- Ys III: Wanderers from Ys [ARPG] = Musique
-- Zero Wing [Arcade Shmup] = Musique
+- Musha Aleste
+- Phantasy Star II
+- Phantasy Star IV
+- Rainbow Islands
+- Road Rash
+- Road Rash II
+- Road Rash 3
+- Sonic the Hedgehog
+- Sonic the Hedgehog 2
+- Sonic the Hedgehog 3 & Knuckles
+- Super Hang-On
+- Sword of Vermillon
+- The Super Shinobi (The Revenge of Shinobi)
+- Tatsujin (Truxton)
+- Thunderforce III
+- Thunderforce IV
+- Twinkle Tale
+- Verytex
+- Ys III: Wanderers from Ys
+- Zero Wing
 
 ## Awesome Mega CD Music
 
@@ -66,64 +90,63 @@
 
 ## Awesome Neo Geo Music
 
-- **Viewpoint**
+- Viewpoint
 
 ## Awesome PC Engine Music
 
-- **Final Soldier**
-- **Gunhed** (Blazing Lazers)
-- **Gradius**
-- **Salamander**
-- **Shinobi**
-- **Soldier Blade**
-- **Splatterhouse**
-- **Street Fighter II' - Champion Edition**
-- **Super Star Soldier**
-- **Tatsujin**
+- Final Soldier
+- Gunhed (Blazing Lazers)
+- Gradius
+- Salamander
+- Shinobi
+- Soldier Blade
+- Splatterhouse
+- Super Star Soldier
+- Tatsujin
 
 ## Awesome PC Engine CD Music
 
-- **Akumajou Dracula X - Chi no Rondo**
-- **Gate of Thunder**
+- Akumajou Dracula X - Chi no Rondo
+- Gate of Thunder
 - Ginga Fukei Densetsu Sapphire
 - Hellfire S
-- **Nexzr**
+- Nexzr
 - Rainbow Islands
-- **Seirei Senshi Spriggan**
+- Seirei Senshi Spriggan
 - Shadow of the Beast
-- **Winds of Thunder** (Lords of Thunder)
-- **Ys Book I & II**
+- Winds of Thunder (Lords of Thunder)
+- Ys Book I & II
 
 ## Awesome Super Famicom Music
 
 - Actraiser
-- **Akumajo Dracula** (Super Castlevania IV)
+- Akumajo Dracula (Super Castlevania IV)
 - Akumajo Dracula XX (Castlevania: Dracula X)
-- **Axelay**
+- Axelay
 - The Chaos Engine
-- **Chrono Trigger**
-- **Donkey Kong Country** (Super Donkey Kong)
-- **Donkey Kong Country 2** (Super Donkey Kong 2)
+- Chrono Trigger
+- Donkey Kong Country (Super Donkey Kong)
+- Donkey Kong Country 2 (Super Donkey Kong 2)
 - Dragon Quest V
 - Dragon Quest VI
-- **F-Zero**
-- **Final Fantasy IV**
-- **Final Fantasy V**
-- **Final Fantasy VI**
+- F-Zero
+- Final Fantasy IV
+- Final Fantasy V
+- Final Fantasy VI
 - Gods
 - James Pond II - Robocod
-- **Jikkyou Oshaberi Parodius**
-- **The Legend of Zelda: A Link to the Past**
-- **Mega Man X** (Rockman X)
+- Jikkyou Oshaberi Parodius
+- The Legend of Zelda: A Link to the Past
+- Mega Man X (Rockman X)
 - Pinball Dreams
 - Pinball Fantasies
-- **Secret of Mana** (Seiken densetsu 2)
-- **Street Fighter II' Turbo: Hyper Fighting**
-- **Super Aleste** (Space Megaforce)
-- **Super Mario World**
-- **Super Metroid**
+- Secret of Mana (Seiken densetsu 2)
+- Street Fighter II' Turbo: Hyper Fighting
+- Super Aleste (Space Megaforce)
+- Super Mario World
+- Super Metroid
 - Super Turrican
 - Super Turrican 2
-- **Teenage Mutant Ninja Turtles IV - Turtles in Time**
-- **Top Gear**
+- Teenage Mutant Ninja Turtles IV - Turtles in Time
+- Top Gear
 - Ys III: Wanderers From Ys
