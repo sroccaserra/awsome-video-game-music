@@ -11,6 +11,9 @@
 - [Awesome PC Engine CD Music](#awesome-pc-engine-cd-music)
 - [Awesome Super Famicom Music](#awesome-super-famicom-music)
 
+See also:
+- https://github.com/sroccaserra/awesome-16-bit
+
 ## Awesome Amiga Music
 
 - Agony
