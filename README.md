@@ -43,10 +43,13 @@
 
 ## Awesome Arcade Music
 
+- Hellfire
 - Kyuukyoku Tiger (Twin Cobra)
 - Raiden
 - Rainbow Islands
+- Rayforce (Gunlock / Layer Section)
 - Street Fighter II: The World Warrior
+- Tatsujin
 
 ## Awesome Mega Drive Music
 
