@@ -46,6 +46,8 @@ See also:
 
 ## Awesome Arcade Music
 
+- Cotton: Fantastic Night Dreams
+- Cotton 2: Magical Night Dreams
 - Hellfire
 - Kyuukyoku Tiger (Twin Cobra)
 - Raiden
