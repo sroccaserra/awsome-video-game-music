@@ -44,6 +44,11 @@ See also:
 - Xenon 2
 - Yo! Joe!
 
+## Awesome Atari ST Music
+
+- Wings of Death
+- Wings of Death II ~ Lethal Xcess
+
 ## Awesome Arcade Music
 
 - Cotton: Fantastic Night Dreams
