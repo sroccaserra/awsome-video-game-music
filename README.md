@@ -12,7 +12,15 @@
 - [Awesome Super Famicom Music](#awesome-super-famicom-music)
 
 See also:
-- https://github.com/sroccaserra/awesome-16-bit
+
+- [Awesome 16 bit Games][a16]
+- [Awesome NES Games][anes]
+- [Awesome Game Boy Advance Games][agba]
+
+[a16]: https://github.com/sroccaserra/awesome-16-bit
+[anes]: https://gist.github.com/sroccaserra/0acb0a7224e0a553f703a26bb906fb10
+[agba]: https://gist.github.com/sroccaserra/07e0ca5893cdebbdb2f44bcd4982d882
+
 
 ## Awesome Amiga Music
 
