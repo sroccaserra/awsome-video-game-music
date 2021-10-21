@@ -30,6 +30,7 @@ See also:
 - The Chaos Engine
 - Fire and Ice
 - First Samurai
+- Fury of the Furries
 - Gods
 - Hybris
 - Jaguar XJ220
